@@ -388,7 +388,7 @@
 		)
 		(model "/Users/christrotter/git/kicad/kicad-libraries/footprint/packages3d/SW-TH_D2F-01.step"
 			(offset
-				(xyz 0.1 0 -0.4)
+				(xyz 0.1 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -1772,7 +1772,7 @@
 		(descr "SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers")
 		(tags "net tie solder jumper bridged")
 		(property "Reference" "JP1"
-			(at 0 -1.8 270)
+			(at 0 -1.8 -90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "89faf875-98b5-4bab-aa47-59a2b784d342")
@@ -1974,7 +1974,7 @@
 			(uuid "a12d2eae-c0ca-4548-9dac-b91ae5533eb2")
 		)
 		(fp_text user "1"
-			(at -2.64 -0.1 270)
+			(at -2.64 -0.1 -90)
 			(layer "F.SilkS")
 			(uuid "4fc9c592-bb92-4457-bac7-35e2cc77f352")
 			(effects
@@ -2082,7 +2082,7 @@
 		(descr "SOD-123F_L2.7-W1.6-LS3.8-RD footprint")
 		(tags "SOD-123F_L2.7-W1.6-LS3.8-RD footprint")
 		(property "Reference" "U3"
-			(at -3.65 0.093831 360)
+			(at -3.65 0.093831 0)
 			(layer "F.SilkS")
 			(uuid "607b0474-f5ca-4a86-96ff-bdaf49b8d81d")
 			(effects
@@ -2140,7 +2140,7 @@
 			)
 		)
 		(property "Value" "1N4148W_C81598"
-			(at 0 2.92634 360)
+			(at 0 2.92634 0)
 			(layer "F.Fab")
 			(uuid "2903ba91-d796-4497-977f-4b729657817d")
 			(effects
@@ -2187,7 +2187,7 @@
 			)
 		)
 		(property "LCSC" "C81598"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e2e2b6df-87af-4743-bfc7-67e040d763fb")
@@ -2284,7 +2284,7 @@
 			(uuid "f1e39419-c6f0-4657-bc8f-aa765f686f37")
 		)
 		(fp_text user "REF**"
-			(at 0 4.92634 360)
+			(at 0 4.92634 0)
 			(layer "F.Fab")
 			(uuid "8ad62dae-31f4-494a-b1e1-02fe83e8ce98")
 			(effects
